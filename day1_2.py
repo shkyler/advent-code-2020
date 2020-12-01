@@ -11,8 +11,8 @@ num1 = 0
 num2 = 0
 num3 = 0
 
-# loop through the numbers list to see which pair adds up to 2020
-# then store this pair of numbers in the return variable
+# loop through the numbers list to see which three numbers adds up to 2020
+# then store these numbers in the return variable
 for i in numbers:
     for j in numbers:
         for k in numbers:
